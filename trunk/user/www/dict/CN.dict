@@ -1263,14 +1263,14 @@ CTL_apply=应用
 CTL_finish=保存
 CTL_refresh=刷新
 t1Logout=注销
-JS_logout=确定要注销?
+JS_logout=确定要注销？
 Login=登录
 Not_authpage_re_login=重新登录
 BTN_FREEMEMORY=清理内存
 BTN_REBOOT=重启
-JS_reboot=重启路由器需要约 30 秒时间，是否继续重启?
+JS_reboot=重启路由器需要约 30 秒时间，是否继续重启？
 BTN_SHUTDOWN=关机
-JS_shutdown=关机后需要手动打开电源，是否继续关闭?
+JS_shutdown=关机后需要手动重新打开电源，是否继续关机？
 CTL_upload=上传
 CTL_next=下一步
 CTL_prev=上一步
@@ -1801,7 +1801,6 @@ IPConnection_BattleNet_sectionname=特殊应用设置
 IPConnection_BattleNet_sectiondesc=某些应用程序需要特殊的处理程序来穿越 IP 共享器。默认是关闭。
 IPConnection_BattleNet_itemname=星际争霸 (Battle.Net)
 IPConnection_BattleNet_itemdesc=启用后允许内网多位玩家同时参与 Starcraft 的在线游戏。
-
 BOP_isp_heart_item=虚拟专用网(VPN)服务器
 BOP_isp_heart_desc=若你使用 PPTP 或 L2TP 联机，请输入虚拟专用网 (VPN) 服务器的名称或地址。
 t2MACFilter=MAC地址过滤
@@ -1920,7 +1919,6 @@ Settings=设置
 ConClients=已连接设备
 IPLocal=IP 地址 (本地)
 IPRemote=IP 地址 (远程)
-
 Disable=禁用
 Enable=启用
 adbyby
@@ -1960,7 +1958,6 @@ adbyby21_1=域名白名单:
 adbyby21_2=IP黑名单:
 adbyby21_3=域名黑名单:
 adbyby21_4=用户自定义规则:
-
 Chnroute=CHNRoute
 Gfwlist=GFWList
 Ad_filter=广告过滤
@@ -1970,7 +1967,6 @@ Keyword_filter=关键字过滤（请以/为分隔符）
 ss_schedule_enable_tr=定时更新订阅
 ss_schedule_date_tr=自动更新星期
 ss_schedule_time_tr=自动更新时间
-
 Reboot_Schedule=启用定时重启
 Reboot_Schedule_Date=重启日期:
 Reboot_Schedule_Time=重启时间:
